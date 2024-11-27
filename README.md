@@ -5,6 +5,7 @@
 This project, focuses on analyzing Gen Z's behaviors, preferences, and trends using SQL queries. The aim is to derive actionable insights to help businesses and organizations cater to the needs of this influential demographic.
 
 Key Highlights:
+
 Purpose: Understanding Gen Z's consumption patterns, digital engagement, career aspirations, and lifestyle choices to inform strategic decisions for businesses.
 
 Data Analysis: The project uses response data from Gen Z.
