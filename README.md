@@ -2,6 +2,11 @@
 
 
 
+![Screenshot 2025-02-27 141155](https://github.com/user-attachments/assets/d2db5bcb-9e5c-488f-9406-6e8cde4d9407)
+
+
+
+
 This project, focuses on analyzing Gen Z's behaviors, preferences, and trends using SQL queries. The aim is to derive actionable insights to help businesses and organizations cater to the needs of this influential demographic.
 
 Key Highlights:
